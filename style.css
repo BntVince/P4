@@ -378,9 +378,11 @@ a:hover {
     text-align: inherit;
 }
 
+
 .nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
+    text-decoration: underline;
 }
 
 .navbar-toggle {
@@ -986,8 +988,8 @@ h4 {
         padding-left: 15px;
         width: 100%;
     }
-    .nav > li:hover,
-    .nav > li:focus {
+    .nav > li a:hover,
+    .nav > li a:focus {
         background: rgba(0, 0, 0, .08);
     }
     .dropdown .dropdown a .caret {
