@@ -9,7 +9,7 @@ body {
 
 /* --------- Modif SEO --------- */
 
-body p{
+body p, body a{
     font-size: 16px;
 }
 
