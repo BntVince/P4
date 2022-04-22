@@ -14,11 +14,36 @@ body p, body a{
 }
 
 body h2{
-    font-size: 26px;
+    font-size: 24px;
 }
 
 body h3{
     font-size: 20px;
+}
+
+.bloc-2--titre{
+    padding-inline: 15%;
+    font-weight: 400;
+    margin-bottom: 1.5em;
+}
+
+.bloc-2--end{
+    padding-inline: 15%;
+    text-align: center;
+    margin-top: 3em;
+    font-size: 20px;
+    line-height: 1em;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.bloc-2--end span{
+    font-style: normal;
+    font-weight: 100;
+}
+
+.bloc-4--titre{
+    padding-inline: 25%;
 }
 
 /* --------- Modif SEO --------- */
