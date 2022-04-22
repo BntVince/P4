@@ -46,6 +46,40 @@ body h3{
     padding-inline: 25%;
 }
 
+.flex-cnt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bloc-8--titre{
+    font-size: 18px;
+    color: #212121!important;
+}
+
+.footer-link{
+    margin-top: 2rem;
+}
+
+.footer-link span{
+    font-size: 18px;
+    color: #212121!important;
+}
+
+.footer--partenaires{
+    margin: 0;
+}
+
+.footer--partenaires li{
+    list-style: none;
+    padding-block: 12px;
+    margin-inline: 1rem;
+}
+
+.footer--partenaires li a{
+    color: #212121!important;
+}
+
 /* --------- Modif SEO --------- */
 
 a,
