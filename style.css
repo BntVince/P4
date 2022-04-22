@@ -7,6 +7,8 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+/* --------- Modif SEO --------- */
+
 body p{
     font-size: 16px;
 }
@@ -18,6 +20,8 @@ body h2{
 body h3{
     font-size: 20px;
 }
+
+/* --------- Modif SEO --------- */
 
 a,
 button {
